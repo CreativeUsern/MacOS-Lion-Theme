@@ -13,4 +13,4 @@ Some toolbar buttons aren't themed. ex: ![Un themed toolbar](https://i.imgur.com
 
 
 
-########note: I own none of these assets, I'm only using them. Credits go to apple.
+####note: I own none of these assets, I'm only using them. Credits go to apple.
